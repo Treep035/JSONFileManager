@@ -1,0 +1,23 @@
+[
+  {
+    "marca": "Asus",
+    "model": "Vivobook",
+    "memoria": 8,
+    "discDur": 1000,
+    "processador": "Intel Core i7-9700K"
+  },
+  {
+    "marca": "MSI",
+    "model": "Katana",
+    "memoria": 32,
+    "discDur": 256,
+    "processador": "Inter Core i9-9900K"
+  },
+  {
+    "marca": "Acer",
+    "model": "Predator",
+    "memoria": 64,
+    "discDur": 512,
+    "processador": "AMD Ryzen 9 3950X"
+  }
+]
